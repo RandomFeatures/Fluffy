@@ -24,6 +24,3 @@ Fluffy III added:
 ![alt tag](f303.png)
 ![alt tag](f304.png)
 
-
-## Map 
-This is the editing tool I used to build the game maps in Fluffy III
