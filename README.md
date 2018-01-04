@@ -15,7 +15,7 @@ Fluffy II was still a pretty simple game. Improvements over Fluffy I included th
 
 ## Fluffy III 
 
-Now this one was almost and acutal game! 
+Now this one was almost an acutal game! 
 Fluffy III added:
 * Multiple different attacks/spells
 * A large variety of enemies
